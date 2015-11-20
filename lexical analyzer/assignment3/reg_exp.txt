@@ -1,0 +1,17 @@
+1.regular expression: 
+1.1 KEYWORD -> var|begin|end.
+1.2 COMMA -> ,
+1.3 SEMICOLON -> ;
+1.4 ASSIGN -> =
+1.5 PERIOD -> .
+1.6 PLUS -> +
+1.7 MINUS -> -
+1.8 MUL -> *
+1.9 DIV -> /
+1.10 LBRACE -> (
+1.11 RBRACE -> )
+1.12 NUMBER -> digit*.?digit* 
+1.13 ID letter(letter|digit)*
+	--> with letter -> A|B|C|...|Z|a|b|c|...|z
+		 digit -> 0|1|2|...|8|9
+

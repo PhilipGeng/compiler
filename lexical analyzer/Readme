@@ -1,0 +1,7 @@
+1. How to compile:
+
+gcc -o sample.c
+
+2. How to run:
+
+./a.out input_file

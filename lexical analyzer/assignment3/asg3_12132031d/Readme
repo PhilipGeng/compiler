@@ -1,0 +1,9 @@
+1. How to compile:
+
+gcc lex.c
+
+2. How to run:
+//input file given in the assignment description:
+./a.out input_file 
+//another input file made by myself for testing IDs with mixed letters and digits
+./a.out input_file2

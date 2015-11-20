@@ -1,0 +1,6 @@
+var a, b, c;
+begin
+a = 5;
+b = 6;
+c = (a + b) / 2.0;
+end.
